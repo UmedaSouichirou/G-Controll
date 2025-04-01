@@ -1,0 +1,30 @@
+{
+  "ザク": {
+    "温度": {
+      "type": "number",
+      "value": 36.5
+    },
+    "モーター稼働": {
+      "type": "bool",
+      "value": true
+    },
+    "扉開閉": {
+      "type": "bool",
+      "value": false
+    }
+  },
+  "ドム": {
+    "温度": {
+      "type": "number",
+      "value": 42.2
+    },
+    "モーター稼働": {
+      "type": "bool",
+      "value": false
+    },
+    "扉開閉": {
+      "type": "bool",
+      "value": false
+    }
+  }
+}
